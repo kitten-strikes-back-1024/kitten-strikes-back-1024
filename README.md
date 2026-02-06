@@ -1,4 +1,4 @@
-# the-kitten-strikes-back
+# the-kitten-strikes-back / https://tryhackme.com/p/kittenstrikesbac
 
 Hi there! I’m **Sidharth** 👋  
 A Python(I know, I know...) programmer and cybersecurity enthusiast who loves breaking things (ethically) and building tools that go ***fast*** ⚡ (come on, Python's not *that* slow!)
@@ -13,8 +13,7 @@ A Python(I know, I know...) programmer and cybersecurity enthusiast who loves br
   - Custom security tooling
   - Red-team style labs
 
-🎯 **TryHackMe Profile:**  
-👉 https://tryhackme.com/p/kittenstrikesbac
+
 
 ---
 
@@ -52,6 +51,8 @@ Some things you’ll find here:
 If you love cybersecurity, physics, or CTFs - **YOU ARE INSTANLY MY FRIEND.**
 Feel free to follow, contribute and post improvements/issues.
 > (I have recently been looking for a TryHackMe team, so you can talk to me about that too!)
+🎯 **TryHackMe Profile:**  
+👉 https://tryhackme.com/p/kittenstrikesbac
 ---
 
 ⭐ If you like what you see, feel free to star a repo or drop an issue — always happy to learn and collaborate.
